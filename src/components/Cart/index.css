@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.carts-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.carts-image {
+  height: 120px;
+  width: 120px;
+}
+.heading {
+  color: #000000;
+  font-size: 32px;
+  font-family: 'Roboto';
+}
